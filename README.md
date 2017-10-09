@@ -5,9 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/Dandelion.svg?style=flat)](http://cocoapods.org/pods/Dandelion)
 [![Platform](https://img.shields.io/cocoapods/p/Dandelion.svg?style=flat)](http://cocoapods.org/pods/Dandelion)
 
-A simple wrapper around the [New Twich API]() via AlamoFire. 
+A simple wrapper around the [New Twich API](https://blog.twitch.tv/the-new-twitch-api-be3fb2b078e6) via [Moya](https://github.com/Moya/Moya). 
 
-TODO: Determine the exact features I need out of the New Twitch API. 
+- [ ] Determine what this actually looks like.
 
 ## Example
 
